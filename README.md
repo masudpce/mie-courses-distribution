@@ -4,7 +4,7 @@ Courses are grouped by subject groups.
 As of May,2023
 prepared by: masudahmed.cuet2gmail.com
 
-Total Courses: 68 Courses, 160.25 Credits
+Total Courses: 68 Courses, 160.25 Credits  
 Total Theory: 40 Courses, 128 credits
 
 
