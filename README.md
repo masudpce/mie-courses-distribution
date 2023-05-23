@@ -20,4 +20,8 @@ Includes:
  This word file has 4 pages.
  Presents Summary of the 
  Presents courses by each subject groups in tables ( collected from the excel file )
-3. A PDF version of the word file.
+3. A PDF version of the word file.  
+
+![image-sample of first page](sample-images/sample-image1.png)
+![image-sample of 2nd page](sample-images/sample-image2.png)
+![image-sample of 3rd page](sample-images/sample-image3.png)
