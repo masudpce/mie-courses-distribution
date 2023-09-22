@@ -7,7 +7,15 @@ prepared by: masudahmed.cuet2gmail.com
 Total Courses: 68 Courses, 160.25 Credits  
 Total Theory: 40 Courses, 128 credits
 
-
+The courses are sorted here, based on
+  -the gradual increase of diificulty 
+  -which should come first (prerequisite).
+  
+(NB: In mechatronics topic the last 5 courses should be sorted as :  
+CAD/CAM come first as 5th serial. As it is the entry point.   
+Then Industrial Automation. After that we can bring Robotics.  
+Only after that we can implement CIM, which gathers all those three things together.  
+Lastly the designer level expertise would come to the field, as a closure.)
 
 Includes:
 1. A detailed excel file. 
