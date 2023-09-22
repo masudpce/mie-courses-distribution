@@ -1,5 +1,5 @@
 # mie-courses-distribution
-The courses included in undergraduate program of Department of Mechatronics and Industrial Engineering (MIE,CUET).  
+The courses included in undergraduate program of Department of Mechatronics and Industrial Engineering (MIE, CUET).  
 Courses are grouped by subject groups.  
 As of May,2023  
 prepared by: masudahmed.cuet2gmail.com  
