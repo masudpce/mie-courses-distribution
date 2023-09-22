@@ -12,10 +12,10 @@ The courses are sorted here, based on
   -which should come first (prerequisite).
   
 (NB: In mechatronics topic the last 5 courses should be sorted as :  
-CAD/CAM come first as 5th serial. As it is the entry point.   
-Then Industrial Automation. After that we can bring Robotics.  
-Only after that we can implement CIM, which gathers all those three things together.  
-Lastly the designer level expertise would come to the field, as a closure.)
+-CAD/CAM come first as 5th serial. As it is the entry point. We need to start with CAD design.     
+-Then Industrial Automation. Which incorporates PLCs to introduce automation. After that we can bring Robots for complex productions.    
+-Only after that we can implement CIM, which gathers all those three things together. CIM makes a factory truely and totally automated.    
+-Lastly the designer level expertise would come to the field, as a closure.)
 
 Includes:
 1. A detailed excel file. 
